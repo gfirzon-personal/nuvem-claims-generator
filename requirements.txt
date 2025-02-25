@@ -1,0 +1,8 @@
+azure-storage-blob
+faker
+fastapi
+pandas
+python-dotenv
+requests
+tqdm
+uvicorn
